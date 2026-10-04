@@ -1,1 +1,5 @@
+# Lisans Yönetim Paneli
 
+[HWID] | [Kullanıcı Adı] | [Bitiş Tarihi]
+
+E236A5A75DDBB5A8CA4A7617ECBB992B3044153448CFC0534CE84115F5A861D1 | Admin | Sınırsız
